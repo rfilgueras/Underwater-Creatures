@@ -1,0 +1,26 @@
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.exe
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.deps.json
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.runtimeconfig.json
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.runtimeconfig.dev.json
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.dll
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.pdb
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.csprojAssemblyReference.cache
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.AssemblyInfoInputs.cache
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.AssemblyInfo.cs
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.csproj.CoreCompileInputs.cache
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.dll
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.pdb
+C:\Users\emre\Source\Repos\CreaturesOfTheSea\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.genruntimeconfig.cache
+C:\Users\ashly\OneDrive\Desktop\Week 8\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.exe
+C:\Users\ashly\OneDrive\Desktop\Week 8\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.deps.json
+C:\Users\ashly\OneDrive\Desktop\Week 8\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.runtimeconfig.json
+C:\Users\ashly\OneDrive\Desktop\Week 8\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.runtimeconfig.dev.json
+C:\Users\ashly\OneDrive\Desktop\Week 8\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.dll
+C:\Users\ashly\OneDrive\Desktop\Week 8\bin\Debug\netcoreapp3.1\CreaturesOfTheSea.pdb
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.csprojAssemblyReference.cache
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.AssemblyInfoInputs.cache
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.AssemblyInfo.cs
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.csproj.CoreCompileInputs.cache
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.dll
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.pdb
+C:\Users\ashly\OneDrive\Desktop\Week 8\obj\Debug\netcoreapp3.1\CreaturesOfTheSea.genruntimeconfig.cache
